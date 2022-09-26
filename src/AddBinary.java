@@ -39,8 +39,5 @@ public class AddBinary {
         //int b = integerValue(str2);
         System.out.println("Sum of the two binary numbers is: " +binarySum(str1, str2));
 
-
-
-
     }
 }
